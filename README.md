@@ -1,14 +1,14 @@
 ###New Version with GUI support can be viewed here
-Link here: https://github.com/ishan28mkip/turtleBlocks3DGUI
+Link here: https://github.com/ishan28mkip/turtleBlocks3D
 
-Preview here: http://ishan28mkip.github.io/turtleBlocks3DGUI/
+Preview here: http://ishan28mkip.github.io/turtleBlocks3D
 
 
 ###This is the old version
 Turtle Art 3D Javascript Prototype
 ==================================
 A 3D, javascript/WebGL based implementation of the turtle Blocks Activity.
-Link to the Preview : http://ishan28mkip.github.io/turtleBlocks3D/
+Link to the Preview : http://ishan28mkip.github.io/turtle3DOld
 
 How to run
 ----------
